@@ -1,0 +1,33 @@
+{
+  "projects": [
+    {
+      "nome_do_projeto": "aaaaa",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "budget_do_projeto": "52541",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

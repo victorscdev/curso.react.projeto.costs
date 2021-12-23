@@ -57,6 +57,4 @@ const navList = [
 
 const routesArr = [routerList, navList]
 
-console.log(routesArr);
-
 export default routesArr
