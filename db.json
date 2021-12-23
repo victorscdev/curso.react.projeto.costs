@@ -1,48 +1,15 @@
 {
   "projects": [
     {
-      "nome_do_projeto": "aaaaa",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "budget_do_projeto": "52541",
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "nome_do_projeto": "Primeiro Projeto",
-      "budget_do_projeto": "60000",
+      "nome_do_projeto": "Banner Dinamico",
+      "budget_do_projeto": "6000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
-      "id": 2
-    },
-    {
-      "nome_do_projeto": "Segundo Projeto",
-      "budget_do_projeto": "5000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "nome_do_projeto": "Terceiro Projeto",
-      "budget_do_projeto": "60000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
+      "id": 1
     }
   ],
   "categories": [
