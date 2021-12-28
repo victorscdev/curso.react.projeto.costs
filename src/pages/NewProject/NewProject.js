@@ -10,7 +10,7 @@ function NewProject() {
         project.cost = 0
         project.services = []
 
-        fetch("http://localhost:5000/projects", {
+        fetch("https://61c9bbf520ac1c0017ed8dea.mockapi.io/costs/v1/projects", {
             method: "POST",
             headers: {
                 'Content-Type': 'application/json'

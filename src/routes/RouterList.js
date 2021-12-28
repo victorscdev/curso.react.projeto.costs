@@ -2,6 +2,7 @@ import Company from '../pages/Company/Company'
 import Contact from '../pages/Contact/Contact'
 import Home from '../pages/Home/Home'
 import NewProject from '../pages/NewProject/NewProject'
+import Project from '../pages/Project/Project'
 import Projects from '../pages/Projects/Projects'
 
 const routerList = [
@@ -24,6 +25,11 @@ const routerList = [
         name: 'Novo Projeto',
         path: '/newproject',
         component: NewProject,
+    },
+    {
+        name: 'Projeto',
+        path: '/project/:id',
+        component: Project,
     },
     {
         name: 'Projetos',
